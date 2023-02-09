@@ -159,7 +159,7 @@
   padding: 96px 300px;
 }
 .feature-wrapper {
-  background-image: url(/images/watch.png), url(/images/gradient2.png);
+  background-image: url(./images/watch.png), url(./images/gradient2.png);
 
   align-items: center;
   justify-content: space-between;
